@@ -1,0 +1,10 @@
+c:\users\oliver\documents\visual studio 2013\Projects\进制转换器CSharp\进制转换器CSharp\bin\Debug\进制转换器CSharp.exe.config
+c:\users\oliver\documents\visual studio 2013\Projects\进制转换器CSharp\进制转换器CSharp\bin\Debug\进制转换器CSharp.exe
+c:\users\oliver\documents\visual studio 2013\Projects\进制转换器CSharp\进制转换器CSharp\bin\Debug\进制转换器CSharp.pdb
+c:\users\oliver\documents\visual studio 2013\Projects\进制转换器CSharp\进制转换器CSharp\obj\Debug\进制转换器CSharp.csprojResolveAssemblyReference.cache
+c:\users\oliver\documents\visual studio 2013\Projects\进制转换器CSharp\进制转换器CSharp\obj\Debug\进制转换器CSharp.Form1.resources
+c:\users\oliver\documents\visual studio 2013\Projects\进制转换器CSharp\进制转换器CSharp\obj\Debug\进制转换器CSharp.Properties.Resources.resources
+c:\users\oliver\documents\visual studio 2013\Projects\进制转换器CSharp\进制转换器CSharp\obj\Debug\进制转换器CSharp.csproj.GenerateResource.Cache
+c:\users\oliver\documents\visual studio 2013\Projects\进制转换器CSharp\进制转换器CSharp\obj\Debug\进制转换器CSharp.exe
+c:\users\oliver\documents\visual studio 2013\Projects\进制转换器CSharp\进制转换器CSharp\obj\Debug\进制转换器CSharp.pdb
+c:\users\oliver\documents\visual studio 2013\Projects\进制转换器CSharp\进制转换器CSharp\obj\Debug\进制转换器CSharp.AboutBox1.resources

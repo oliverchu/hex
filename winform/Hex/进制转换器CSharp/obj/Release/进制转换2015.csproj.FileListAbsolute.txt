@@ -1,0 +1,15 @@
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\bin\Release\进制转换器CSharp.exe.config
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\obj\Release\Interop.WMPLib.dll
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\obj\Release\AxInterop.WMPLib.dll
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\obj\Release\进制转换2015.csproj.ResolveComReference.cache
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\obj\Release\进制转换2015.csprojResolveAssemblyReference.cache
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\obj\Release\进制转换器CSharp.AboutBox1.resources
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\obj\Release\进制转换器CSharp.Form1.resources
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\obj\Release\进制转换2015.csproj.GenerateResource.Cache
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\bin\Release\进制转换器CSharp.exe
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\bin\Release\进制转换器CSharp.pdb
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\bin\Release\Interop.WMPLib.dll
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\bin\Release\AxInterop.WMPLib.dll
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\obj\Release\进制转换器CSharp.Properties.Resources.resources
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\obj\Release\进制转换器CSharp.exe
+D:\Users\Oliver\Desktop\程序演示\进制转换器CSharp_源文件\进制转换器CSharp\obj\Release\进制转换器CSharp.pdb
